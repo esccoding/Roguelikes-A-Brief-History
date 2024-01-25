@@ -1,4 +1,4 @@
-## Roguelikes: A Brief History
+## [Roguelikes: A Brief History](https://esccoding.github.io/Roguelikes-A-Brief-History/)
 
 This project was a Critical Thinking Assignment given in my CSC200 // Computer Science Fundamentals course at Colorado State University Global,
 and was my first time working with HTML and CSS.
@@ -20,3 +20,4 @@ of <em>Rogue</em> (with the exception of <em>Colossal Cave Adventure</em>, which
 it -- and many other genres -- actually drew inspiration).
 
 Thank you for taking the time to view my webpage and read my paper -- I hope you enjoy it!
+
