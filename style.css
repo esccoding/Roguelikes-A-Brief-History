@@ -8,13 +8,12 @@ h1 {
 	font-size: 45px;
 }
 
-h3 {
+h3,
+h4,
+li {
 	color: white;
 }
 
-h4 {
-	color: white;
-}
 
 p {
 	color: b1c9c3;
@@ -25,6 +24,7 @@ a {
 	color: #40a4b9;
 }
 
-li {
-	color: white;
+img {
+	display: block;
+	max-width: 100%
 }
